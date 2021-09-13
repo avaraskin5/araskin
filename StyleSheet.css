@@ -1,5 +1,5 @@
 body{
-background-color: #5f5f5f;
+background-color: #242424;
 
 }
 
@@ -16,6 +16,28 @@ background-color: #5f5f5f;
 
 
 #CustomidTwo{
+    background: rgb(138, 138, 138);
+    color: rgb(44, 44, 44); 
+    border: rgb(45, 52, 58);
+    border-width: 4px; 
+    border-style: solid;
+    text-decoration: underline;
+}
+
+
+.tableClassOne{
+    color: white;
+}
+
+.tableblock1{
+    background: rgb(20, 20, 20);
+}
+
+.marquee1{
+    color: white;
+}
+
+.RankingHeader{
     background: rgb(138, 138, 138);
     color: rgb(44, 44, 44); 
     border: rgb(45, 52, 58);
