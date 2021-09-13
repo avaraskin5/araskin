@@ -1,8 +1,18 @@
 body{
-background-color: grey;
+background-color: #dddddd;
 
 }
 
 h1{
-    border-color: darkslategray;
+    color: rgb(109, 109, 109);
+    border: whitesmoke;
+    border-width: 3px;
+}
+
+h5{
+    color: rgb(109, 109, 109); 
+}
+
+div {
+
 }
