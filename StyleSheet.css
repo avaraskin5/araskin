@@ -9,7 +9,7 @@ background-color: #242424;
     color: rgb(44, 44, 44); 
     border: rgb(45, 52, 58);
     border-width: 4px; 
-    border-style: solid;
+    border-style: dashed;
     
     
 }
@@ -24,11 +24,7 @@ background-color: #242424;
 
 
 #CustomidTwo{
-    background: rgb(138, 138, 138);
-    color: rgb(44, 44, 44); 
-    border: rgb(45, 52, 58);
-    border-width: 4px; 
-    border-style: solid;
+    border-style: double;
     text-decoration: underline;
 }
 
@@ -50,6 +46,6 @@ background-color: #242424;
     color: rgb(44, 44, 44); 
     border: rgb(45, 52, 58);
     border-width: 4px; 
-    border-style: solid;
+    border-style: double;
     text-decoration: underline;
 }
